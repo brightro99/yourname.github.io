@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko"
+title                    : "이것저것 해보는 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "brightro99"
